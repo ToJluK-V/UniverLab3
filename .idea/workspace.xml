@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ada6e82b-8339-48d4-8d3a-b202d8a258ae" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab3/com/company/GornerTableCellRenderer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab3/com/company/GornerTableModel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab3/com/company/MainFrame$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab3/com/company/MainFrame$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab3/com/company/MainFrame$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab3/com/company/MainFrame$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab3/com/company/MainFrame$5$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab3/com/company/MainFrame$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab3/com/company/MainFrame$6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab3/com/company/MainFrame$7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab3/com/company/MainFrame$8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab3/com/company/MainFrame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab3/com/company/files/1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab3/com/company/files/2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab3/com/company/files/3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab3/com/company/images/photo_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lab3/com/company/images/photo_2.jpg" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1UAQ2TPvt1TxHx2QgMOybt9azI7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="Images" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.company.MainFrame" />
+      <module name="lab3" />
+      <option name="PROGRAM_PARAMETERS" value="5 4 3 2 1" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ada6e82b-8339-48d4-8d3a-b202d8a258ae" name="Default Changelist" comment="" />
+      <created>1574796712166</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574796712166</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
